@@ -1,2 +1,2 @@
-# Harvard-CS50
+# Harvard-CS50-AI
 self-learning program
